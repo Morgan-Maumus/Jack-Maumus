@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jack-Maumus, an undergraduate student studying Computer Science at Louisiana State Univeristy's Ogden Honors College!
+- 👋 Hi, I’m @Morgan-Maumus, an undergraduate student studying Computer Science at Louisiana State Univeristy's Ogden Honors College!
 - 👀 I’m interested in an internship in software development to obtain more professional skills!
-- 🌱 Visit JackMaumus.com to see more!
+- 🌱 Visit MorganMaumus.com to see more!
 
-- 📫 How to reach me: jackmaumus@gmail.com
+- 📫 How to reach me: MorganMaumus@gmail.com
 
 <!---
 Jack-Maumus/Jack-Maumus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
